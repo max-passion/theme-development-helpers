@@ -1,9 +1,5 @@
 # Theme Development Helpers
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&colorA=338fbb&colorB=1c1c1c&logoColor=ffffff)](https://github.com/odestry/.github/blob/main/CONTRIBUTING.md)
-[![CI](https://img.shields.io/github/actions/workflow/status/odestry/theme-development-helpers/ci.yml?style=flat&label=CI&colorA=338fbb&colorB=1c1c1c&logoColor=ffffff)](https://github.com/odestry/theme-development-helpers/blob/main/.github/workflows/ci.yml)
-[![Discord Shield](https://img.shields.io/discord/983602196493004820?style=flat&colorA=338fbb&colorB=1c1c1c&label=discord&logo=discord&logoColor=ffffff)](https://odestry.com/community)
-
 [Usage](#usage) |
 [Tools](#tools) |
 [Contributing](#contributing) |
@@ -20,7 +16,7 @@ Copy the code from the snippet you want to use and paste it into your theme's `/
 {% render 'snippet-name' %}
 ```
 
-You can also use our theme starter template to quickly preview these helpers. See [odestry/theme-starter](https://github.com/odestry/theme-starter).
+You can also use our theme starter template to quickly preview these helpers. See [odestry/theme-starter](https://github.com/max-passion/theme-starter).
 
 ### Theme app extensions
 
@@ -284,4 +280,4 @@ Odestry isn't just a community; it's a group of dedicated folks all aiming to bu
 
 ## License
 
-Copyright (c) 2024-present Odestry. See [LICENSE](/LICENSE.md) for further details.
+Copyright (c) 2024-present David Kasilag. See [LICENSE](/LICENSE.md) for further details.
